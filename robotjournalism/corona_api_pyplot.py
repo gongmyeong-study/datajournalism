@@ -6,7 +6,8 @@ from urllib import request
 
 class Corona:
     """
-    Corana class
+    Corana class using APIs
+    Please refer to https://documenter.getpostman.com/view/10808728/SzS8rjbc?version=latest
     """
 
     def __init__(self, city):
